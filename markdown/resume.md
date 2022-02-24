@@ -1,100 +1,228 @@
-Johnny Coder
-============
+Francisco José Rodríguez Bogado
+===============================
 
-----
+## Programador Ingeniero Informático
+### Python, Software Libre
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+![](/home/queen/Documentos/avatars/Paco.png){ width="100" height="100" style="border-radius: 50%; display: block; margin: 0 auto" }
 
-----
+-----------------------------------------    -------------------------------------------------
+🖈 Huelva, ES                                             [**qinn.es**](https://www.qinn.es) 🌐
+✆ (+34) 626 627 741                           [LinkedIn](https://www.linkedin.com/in/pqinn) 🔗
+➤ [Telegram](https://t.me/paco_queen)                 [GitHub](https://github.com/pacoqueen) 
+✉ [bogado@qinn.es](mailto:bogado@qinn.es)            [Gitlab](https://gitlab.com/pacoqueen ) 
+-----------------------------------------    -------------------------------------------------
 
-Education
----------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Perfil {#profile}
+------
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Programador especializado en Software Libre. Más de 20 años de experiencia en GNU/Linux.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+___Stack___**: Debian + Vim + Python + GTK**
 
-    *Minor: Awesomeology*
+Desarrollo de aplicaciones de escritorio, web, _scripting_, monitorización y administración de sistemas y bases de datos.
 
-Experience
+
+Experiencia Laboral {#experience}
+-------------------
+
+**[GEOTEXAN S.A.](https://www.geotexan.com)**
+
+> Abril 2012 – Ahora
+
+Jefe de Informática
+: Desarrollo de ERP a medida, CIO & CTO, implantación de software de terceros, soporte microinformática, administración de sistemas MS-Windows y GNU/Linux, diseño e implementación de redes, soporte telefonía, RGPD, informática industrial y equipos de laboratorio (Siemens, Instron, Textechno, Helfis, Lenzing), ciberseguridad y análisis forense digital.
+
+  * Director de migración a SAP (_Product Owner_). [Seidor SAP, Boyum BEAS, Taiga, [EKCIT](https://www.ekcit.eu/), cloud DataRush]
+  * Soporte Sage Murano. Desarrollo de integraciones con sistemas propios. [Python, SQL]
+  * Desarrollo de [recomendador web de geotextiles según cálculos de ingeniería civil](https://geotexan.github.io/calculinn/). [Brython, Python, JavaScript, HTML5, CSS3, GPLv3]
+  * Administración de sistemas MS-Windows 2008R2-2019 y GNU/Linux Debian. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall]
+  * Administración de SGBD PostgreSQL, MariaDB/MySQL y MS-SQLServer 2008R2.
+
+
+
+**[Novaweb Área Virtual, S. L.](https://www.linkedin.com/company/novaweb-area-virtual-s-l/about/)**
+
+> Noviembre 2008 – Abril 2012
+
+Director de desarrollo de software
+: Análisis, planificación, desarrollo y soporte de software a medida (FLOSS) y de terceros.
+
+  * Dirección y desarrollo de proyectos de software para empresas del grupo GEA-21 y externas.
+  * Programación de la web del Metro de Sevilla. [PHP]
+  * Mantenimiento y actualizaciones de ERP G-INN para Geotexan, S.A. [Python, GPLv3]
+  * Desarrollo de ERP para Centro de Investigación de Carreteras de Andalucía (CICAN). [Python, GPLv3]
+  * Desarrollo de software de gestión para Universal Pilates. [Python, GPLv3]
+  * Administración de Microsoft SQL Server 2005 y soporte para Microsoft Business Solutions-Navision (IberBuilding).
+
+
+
+**[Atlantic Copper](https://www.atlantic-copper.es/)**
+
+> Junio 2004 – Septiembre 2004
+
+Programador
+: Prácticas laborales formativas desarrollando software para el Departamento de Seguridad y Medio Ambiente.
+
+
+
+**[Freelance Software Libre](https://sourceforge.net/u/pacoqueen/profile)**
+
+> 2000 – Noviembre 2008
+
+Analista programador
+: Desarrollo y mantenimiento de soluciones para una cartera de 18 clientes. Tecnologías usadas: GESCO3, dBase IV, Delphi, Interbase (firebird), C++/C, MS-Access MDB, DAO (ADODB), Visual Basic, COBOL, Python, wxWidgets/GTK, ReportLab, PostgreSQL, Guadalinex GNU/Linux, MTA postfix, fetchmail, spamassassin, procmail, courier-imap, Apache, SAMBA/NIS NFS, Debian GNU/Linux, Ubuntu GNU/Linux.
+
+
+
+Voluntario {#volunteer}
 ----------
 
-**Your Most Recent Work Experience:**
+**[Cibervoluntarios](https://www.cibervoluntarios.org/)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+> 2021 – Ahora
 
-* First item
+**[miArcade](https://miarcade.com/)**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+> 2017 – Ahora
 
-**That Other Job You Had**
+DevOps
+: Réplicas de máquinas arcade recreativas con emuladores de sistemas retro.
 
-Also with a short description.
+  * Batocera
+  * RetroPie
+  * LibRetro
+  * RetroArch
+  * AttractMode
+  * Raspberry Pi
 
-Technical Experience
---------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Habilidades {#skills}
+-----------
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+GNU/Linux  [★★★]
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+`Debian Ubuntu Kali Raspbian`
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Python     [★★★]
+```
+ReportLab pdb pdm poetry sqlite flask behave Kivy DearPyGui
+pyglet sqlite H2OWave streamlit tkinter wxPython pandas numpy 
+telegram fabric paramiko bleach nose unittest remi pyserial
+```
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Django     [★★☆]
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+`Jinja HTML5 CSS3 Taiga`
 
-[ref]: https://github.com/githubuser/superlongprojectname
+PyGTK      [★★★]
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+`GTK GNOME DBus Cairo Pillow`
 
-* Human Languages:
+PHP        [★★☆]
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+`WordPress WooCommerce Joomla Drupal`
 
-* Random tidbit
+JavaScript [★☆☆]
 
-* Other sort of impressive-sounding thing you did
+`npm NodeJS PhoneGap jQuery Brython`
 
-----
+SQL        [★★☆]
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+`PostgrelSQL SQLServer MySQL SQLObject`
+
+ERP        [★★★]
+
+`Navision Sage Murano SAP Odoo`
+
+
+
+Educación {#education}
+---------
+
+
+**C1b3rWall academy**
+
+> 2020 — Ahora
+
+* Ciberseguridad
+* Blockchain
+
+
+
+**INCIBE - Instituto Nacional de Ciberseguridad**
+
+> 2020 — 2020
+
+* Protege tu Negocio: Ciberseguridad en el Teletrabajo
+
+
+
+**MiríadaX - Telefónica Educación Digital S.L.U**
+
+> 2014 — 2019
+
+* Agilidad y Lean
+* Robots y videojuegos (Arduino + Scratch)
+* Análisis estadístico de datos con R
+* Programación en la nube
+* Business Intelligence y Big Data
+* HTML5
+* Aprende WordPress de forma sencilla
+* Introducción al diseño de videojuegos
+* Aprende a programar aplicaciones móviles (3.ª edición)
+* Introducción a la gamificación a través de casos prácticos
+* Seguridad informática práctica
+* Análisis de Datos Experimentales: Utilidades Básicas (2.ª edición)
+
+
+
+**Plan Avanza2 - Ministerio de Industria, Turismo y Comercio.**
+
+> 2010 — 2011
+
+* Administración Linux 9: recursos y sistemas
+* Estructura y funcionamiento de Linux Red Hat 9
+* Lenguaje de programación UML
+* Estructura y funcionamiento de Windows Server 2003
+
+
+
+**Ibermática**
+
+> 2009 — 2009
+
+* Curso formación funcional Navision IBB
+
+
+
+**Universidad de Huelva**
+
+> 1999 — 2004
+
+***Ingeniero técnico en informática de gestión***
+
+Matrículas de honor en: Programación II [Prolog], Sistemas Operativos [Plan9 from Bell Labs], Inteligencia Artificial: Sistemas Expertos [CASPIAN], Inteligencia Artificial: Algoritmos Evolutivos y Bioinspirados, Inteligencia Artificial: Algoritmos heurísticos y de búsqueda.
+
+* Instalación y configuración de un sistema GNU/Linux. (2001)
+* Programación y configuración de routers. (2002)
+* I jornada onubense sobre Software Libre. (2003)
+* Administración avanzada de sistemas GNU/Linux (2005)
+
+
+
+Idiomas {#languages}
+-------
+
+Español: Nativo
+
+English: Professional working
+
+
+------
+
+[![qinn.es](/home/queen/Documentos/currículos/logo_qinn.png){ width="50" height="50" style="display: block; margin: 0 auto"}](https://qinn.es)
+
+_febrero 2022_

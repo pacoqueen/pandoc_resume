@@ -6,12 +6,13 @@ Francisco José Rodríguez Bogado
 
 ![](/home/queen/Documentos/avatars/Paco.png){ width="100" height="100" style="border-radius: 50%; display: block; margin: 0 auto" }
 
------------------------------------------    -------------------------------------------------
-🖈 Huelva, ES                                             [**qinn.es**](https://www.qinn.es) 🌐
-✆ (+34) 626 627 741                           [LinkedIn](https://www.linkedin.com/in/pqinn) 🔗
-➤ [Telegram](https://t.me/paco_queen)                 [GitHub](https://github.com/pacoqueen) 
-✉ [bogado@qinn.es](mailto:bogado@qinn.es)            [Gitlab](https://gitlab.com/pacoqueen ) 
------------------------------------------    -------------------------------------------------
+---------------------------------------------------------   ---------------------------------------------------------------
+🖈 Huelva, ES                                                                          [**qinn.es**](https://www.qinn.es) 🌐
+✆ (+34) 626 627 741                                         [LinkedIn`.com/in/pqinn`](https://www.linkedin.com/in/pqinn) 🔗
+➤ [Telegram (`t.me/paco_queen`)](https://t.me/paco_queen)              [GitHub _pacoqueen_](https://github.com/pacoqueen) 
+✉ [bogado@qinn.es](mailto:bogado@qinn.es)                             [GitLab _pacoqueen_](https://gitlab.com/pacoqueen ) 
+---------------------------------------------------------   ---------------------------------------------------------------
+
 
 
 Perfil {#profile}
@@ -24,12 +25,13 @@ ___Stack___**: Debian + Vim + Python + GTK**
 Desarrollo de aplicaciones de escritorio, web, _scripting_, monitorización y administración de sistemas y bases de datos.
 
 
+
 Experiencia Laboral {#experience}
 -------------------
 
 **[GEOTEXAN S.A.](https://www.geotexan.com)**
 
-> Abril 2012 – Ahora
+> Abril 2012 – Ahora (10 años)
 
 Jefe de Informática
 : Desarrollo de ERP a medida, CIO & CTO, implantación de software de terceros, soporte microinformática, administración de sistemas MS-Windows y GNU/Linux, diseño e implementación de redes, soporte telefonía, RGPD, informática industrial y equipos de laboratorio (Siemens, Instron, Textechno, Helfis, Lenzing), ciberseguridad y análisis forense digital.
@@ -44,10 +46,10 @@ Jefe de Informática
 
 **[Novaweb Área Virtual, S. L.](https://www.linkedin.com/company/novaweb-area-virtual-s-l/about/)**
 
-> Noviembre 2008 – Abril 2012
+> Noviembre 2008 – Abril 2012 (3.5 años)
 
 Director de desarrollo de software
-: Análisis, planificación, desarrollo y soporte de software a medida (FLOSS) y de terceros.
+: Análisis, planificación, desarrollo, mantenimiento y soporte de software a medida (FLOSS) y de terceros.
 
   * Dirección y desarrollo de proyectos de software para empresas del grupo GEA-21 y externas.
   * Programación de la web del Metro de Sevilla. [PHP]
@@ -60,7 +62,7 @@ Director de desarrollo de software
 
 **[Atlantic Copper](https://www.atlantic-copper.es/)**
 
-> Junio 2004 – Septiembre 2004
+> Junio 2004 – Septiembre 2004 (3 meses)
 
 Programador
 : Prácticas laborales formativas desarrollando software para el Departamento de Seguridad y Medio Ambiente.
@@ -69,7 +71,7 @@ Programador
 
 **[Freelance Software Libre](https://sourceforge.net/u/pacoqueen/profile)**
 
-> 2000 – Noviembre 2008
+> 2000 – Noviembre 2008 (8 años)
 
 Analista programador
 : Desarrollo y mantenimiento de soluciones para una cartera de 18 clientes. Tecnologías usadas: GESCO3, dBase IV, Delphi, Interbase (firebird), C++/C, MS-Access MDB, DAO (ADODB), Visual Basic, COBOL, Python, wxWidgets/GTK, ReportLab, PostgreSQL, Guadalinex GNU/Linux, MTA postfix, fetchmail, spamassassin, procmail, courier-imap, Apache, SAMBA/NIS NFS, Debian GNU/Linux, Ubuntu GNU/Linux.
@@ -81,11 +83,11 @@ Voluntario {#volunteer}
 
 **[Cibervoluntarios](https://www.cibervoluntarios.org/)**
 
-> 2021 – Ahora
+> 2021 – Ahora (1 año)
 
 **[miArcade](https://miarcade.com/)**
 
-> 2017 – Ahora
+> 2017 – Ahora (5 años)
 
 DevOps
 : Réplicas de máquinas arcade recreativas con emuladores de sistemas retro.

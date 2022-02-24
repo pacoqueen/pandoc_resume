@@ -6,12 +6,13 @@ Francisco José Rodríguez Bogado
 
 ![](/home/queen/Documentos/avatars/Paco.png){ width="100" height="100" style="border-radius: 50%; display: block; margin: 0 auto" }
 
------------------------------------------    -------------------------------------------------
-🖈 Huelva, ES                                             [**qinn.es**](https://www.qinn.es) 🌐
-✆ (+34) 626 627 741                           [LinkedIn](https://www.linkedin.com/in/pqinn) 🔗
-➤ [Telegram](https://t.me/paco_queen)                 [GitHub](https://github.com/pacoqueen) 
-✉ [bogado@qinn.es](mailto:bogado@qinn.es)            [Gitlab](https://gitlab.com/pacoqueen ) 
------------------------------------------    -------------------------------------------------
+---------------------------------------------------------   ---------------------------------------------------------------
+🖈 Huelva, ES                                                                          [**qinn.es**](https://www.qinn.es) 🌐
+✆ (+34) 626 627 741                                         [LinkedIn`.com/in/pqinn`](https://www.linkedin.com/in/pqinn) 🔗
+➤ [Telegram (`t.me/paco_queen`)](https://t.me/paco_queen)              [GitHub _pacoqueen_](https://github.com/pacoqueen) 
+✉ [bogado@qinn.es](mailto:bogado@qinn.es)                             [GitLab _pacoqueen_](https://gitlab.com/pacoqueen ) 
+---------------------------------------------------------   ---------------------------------------------------------------
+
 
 
 About {#profile}
@@ -28,7 +29,7 @@ Work Experience {#experience}
 
 **[GEOTEXAN S.A.](https://www.geotexan.com)**
 
-> April 2012 – Present
+> April 2012 – Present (10 years)
 
 CIO & CTO
 : Custom ERP development, third party software implantation, hardware and software support, MS-Windows and GNU/Linux system administration, voice and data network design, implementation & support, RGPD, industrial computing and lab devices (Siemens, Instron, Textechno, Helfis, Lenzing), cybersecurity and digital forensic analysis. 
@@ -43,7 +44,7 @@ CIO & CTO
 
 **[Novaweb Área Virtual, S. L.](https://www.linkedin.com/company/novaweb-area-virtual-s-l/about/)**
 
-> November 2008 – April 2012
+> November 2008 – April 2012 (3.5 years)
 
 Software Development Lead
 : Analysis, planning, development, support and maintenance of custom (FLOSS) and third party software.
@@ -59,7 +60,7 @@ Software Development Lead
 
 **[Atlantic Copper](https://www.atlantic-copper.es/)**
 
-> June 2004 – September 2004
+> June 2004 – September 2004 (3 months)
 
 Internship
 : Software development for Security and Environment Department.
@@ -68,7 +69,7 @@ Internship
 
 **[Freelance Software Libre](https://sourceforge.net/u/pacoqueen/profile)**
 
-> 2000 – Noviembre 2008
+> 2000 – Noviembre 2008 (8 years)
 
 Programmer Analyst
 : Several solutions for 18 success cases. Technologies: GESCO3, dBase IV, Delphi, Interbase (firebird), C++/C, MS-Access MDB, DAO (ADODB), Visual Basic, COBOL, Python, wxWidgets/GTK, ReportLab, PostgreSQL, Guadalinex GNU/Linux, MTA postfix, fetchmail, spamassassin, procmail, courier-imap, Apache, SAMBA/NIS NFS, Debian GNU/Linux, Ubuntu GNU/Linux.
@@ -80,13 +81,13 @@ Volunteer {#volunteer}
 
 **[Cibervoluntarios](https://www.cibervoluntarios.org/)**
 
-> 2021 – Present
+> 2021 – Present (1 year)
 
 Non profit organisation for generate transformation and social impact, as well as building and contributing to create a participatory and inclusive digital citizenship with more opportuninies.
 
 **[miArcade](https://miarcade.com/)**
 
-> 2017 – Present
+> 2017 – Present (5 years)
 
 DevOps
 : Retro systems in arcade cabinet replicas.

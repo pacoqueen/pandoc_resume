@@ -39,7 +39,7 @@ Jefe de Informática
   * Director de migración a SAP (_Product Owner_). [Seidor SAP, Boyum BEAS, Taiga, [EKCIT](https://www.ekcit.eu/), cloud DataRush]
   * Soporte Sage Murano. Desarrollo de integraciones con sistemas propios. [Python, SQL]
   * Desarrollo de [recomendador web de geotextiles según cálculos de ingeniería civil](https://geotexan.github.io/calculinn/). [Brython, Python, JavaScript, HTML5, CSS3, GPLv3]
-  * Administración de sistemas MS-Windows 2008R2-2019 y GNU/Linux Debian. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall]
+  * Administración de sistemas MS-Windows 2008R2-2019 y GNU/Linux Debian. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall, Docker, Borg]
   * Administración de SGBD PostgreSQL, MariaDB/MySQL y MS-SQLServer 2008R2.
 
 

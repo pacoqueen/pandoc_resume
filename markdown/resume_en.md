@@ -37,7 +37,7 @@ CIO & CTO
   * SAP migration director (_Product Owner_). [Seidor SAP, Boyum BEAS, Taiga, [EKCIT](https://www.ekcit.eu/), cloud DataRush]
   * Sage Murano support and development of integration software. [Python, SQL]
   * Development of [geotextile web recomendator](https://geotexan.github.io/calculinn/). [Brython, Python, JavaScript, HTML5, CSS3]
-  * MS-Windows 2008R2-2019 and GNU/Linux Debian system administrator. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall]
+  * MS-Windows 2008R2-2019 and GNU/Linux Debian system administrator. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall, Docker, Borg]
   * DBMS PostgreSQL, MariaDB/MySQL y MS-SQLServer 2008R2 DBA.
 
 
@@ -147,7 +147,7 @@ Education {#education}
 
 **C1b3rWall academy**
 
-> 2020 — Ahora
+> 2020 — Present
 
 * Ciberseguridad
 * Blockchain

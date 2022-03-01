@@ -149,7 +149,7 @@ Education {#education}
 
 > 2020 — Present
 
-* Ciberseguridad
+* Cybersecurity
 * Blockchain
 
 

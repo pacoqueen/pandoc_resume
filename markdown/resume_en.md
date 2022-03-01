@@ -213,7 +213,7 @@ High grades on: Programming II [Prolog], Operating Systems [Plan9 from Bell Labs
 
 * Installation and configuration of a GNU/Linux system. (2001)
 * Routers programming and configuration. (2002)
-* Libre Software I onubense event. (2003)
+* Libre Software onubense event I. (2003)
 * GNU/Linux advanced system administration (2005)
 
 
